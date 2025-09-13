@@ -1,4 +1,4 @@
-# SkillChain Frontend
+SkillChain Frontend
 
 A simple React prototype showing:
 - Homepage (introduction + how it works)
