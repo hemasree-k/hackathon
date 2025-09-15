@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "my-app",
   "private": true,
   "version": "0.0.0",
@@ -26,18 +25,6 @@
     "typescript": "~5.8.3",
     "typescript-eslint": "^8.39.1",
     "vite": "^7.1.2"
-=======
-  "name": "skillchain-frontend",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-scripts": "5.0.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build"
->>>>>>> b5a6617938f72f1a01a322b4b7f33015224b37cb
   }
 }
+
