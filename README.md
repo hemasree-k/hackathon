@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -66,4 +67,16 @@ export default tseslint.config([
     },
   },
 ])
+=======
+SkillChain Frontend
+
+A simple React prototype showing:
+- Homepage (introduction + how it works)
+- Dashboard (tokens, skills, progress)
+
+## Run
+```bash
+npm install
+npm start
+>>>>>>> b5a6617938f72f1a01a322b4b7f33015224b37cb
 ```
